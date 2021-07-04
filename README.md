@@ -1,2 +1,2 @@
 # ConwayTwoPlayer
-A 2-player game I made in Python based on Conway's Game of Life (April 2021)
+Python implementation of 2-Player Conway's Game of Life (April 2021)
